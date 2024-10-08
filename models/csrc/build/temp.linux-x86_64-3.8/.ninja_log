@@ -1,0 +1,4 @@
+# ninja log v5
+0	14688	1727434600884172446	/home/cxhpc/byf/OPUS/models/csrc/build/temp.linux-x86_64-3.8/msmv_sampling/msmv_sampling.o	cb8617838d71f55e
+0	143587	1727434729769073331	/home/cxhpc/byf/OPUS/models/csrc/build/temp.linux-x86_64-3.8/msmv_sampling/msmv_sampling_forward.o	5263bcae2a93c15c
+0	143706	1727434729889074174	/home/cxhpc/byf/OPUS/models/csrc/build/temp.linux-x86_64-3.8/msmv_sampling/msmv_sampling_backward.o	bd6fcf9af6c31db9
